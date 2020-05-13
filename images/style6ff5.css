@@ -1,0 +1,38 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+
+
+
+@media screen and (min-width: 480px) {
+
+.masthead {
+margin-top: 154px;
+}
+
+.home .masthead {
+	
+	padding: 2% 5% !important;
+	
+}
+
+.flex-active-slide {
+	margin-top: 154px;
+}
+
+}
+
+.fusion-mobile-nav-item a {
+background-color: #333c4e !important;
+}
+
+
+.fusion-layout-column.fusion_builder_column.fusion-one-half {
+	margin-bottom: 0px !important;
+}
